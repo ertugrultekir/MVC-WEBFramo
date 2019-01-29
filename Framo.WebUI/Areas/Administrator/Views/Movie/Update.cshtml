@@ -1,0 +1,39 @@
+﻿@model Movie
+
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Update</h2>
+
+@using (Html.BeginForm("Update", "Movie", FormMethod.Post))
+{
+    @Html.HiddenFor(x => x.ID)
+    @Html.HiddenFor(x => x.ReleaseDate)
+    @Html.HiddenFor(x => x.UserID)
+    @Html.HiddenFor(x => x.Status)
+    @Html.HiddenFor(x => x.CreatedDate)
+    @Html.HiddenFor(x => x.CreatedIP)
+    @Html.HiddenFor(x => x.CreatedComputerName)
+    @Html.HiddenFor(x => x.ModifiedDate)
+    @Html.HiddenFor(x => x.ModifiedIP)
+    @Html.HiddenFor(x => x.ModifiedComputerName)
+    @Html.HiddenFor(x => x.PosterPath)
+    @Html.HiddenFor(x => x.Sypnosis)
+    @Html.HiddenFor(x => x.CategoryID)
+
+    <div class="form-group">
+        <label for="email">Film Adı:</label>
+        @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+    </div>
+    <div>
+        <label>Mevuct Resim</label><br />
+        <img src="~/Content/@Model.PosterPath" /><br /><br />
+    </div>
+    <div class="form-group">
+        <label for="email">Güncellemek İstiyorsanız Eğer Yeni Resim:</label>
+        @Html.TextBoxFor(x => x.PosterPath, new { type = "file" })
+    </div>
+    <button type="submit" class="btn btn-default">Güncelle</button>
+}

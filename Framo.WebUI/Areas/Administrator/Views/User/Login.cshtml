@@ -1,0 +1,22 @@
+﻿@model User
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Login</h2>
+
+@using (Html.BeginForm("Login", "User", FormMethod.Post))
+{
+    <div class="form-group">
+        <label>Email Adresiniz</label>
+        @Html.TextBoxFor(x => x.EmailAddress, new { @class = "form-control" }) @Html.ValidationMessageFor(x => x.EmailAddress)
+    </div>
+    <div class="form-group">
+        <label>Şifreniz</label>
+        @Html.PasswordFor(x => x.Password, new { @class = "form-control" }) @Html.ValidationMessageFor(x => x.Password)
+    </div>
+    <button class="btn btn-default" style="float:left; margin-right:20px">Giriş Yap</button>
+    @Html.ActionLink("Kayıt Ol", "Register", "User", null, new { @class = "btn btn-default" })
+}

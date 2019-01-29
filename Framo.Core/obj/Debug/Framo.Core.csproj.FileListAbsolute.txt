@@ -1,0 +1,12 @@
+C:\Users\Developer\Desktop\Framo\Framo.Core\bin\Debug\Framo.Core.dll.config
+C:\Users\Developer\Desktop\Framo\Framo.Core\bin\Debug\Framo.Core.dll
+C:\Users\Developer\Desktop\Framo\Framo.Core\bin\Debug\Framo.Core.pdb
+C:\Users\Developer\Desktop\Framo\Framo.Core\bin\Debug\EntityFramework.dll
+C:\Users\Developer\Desktop\Framo\Framo.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Developer\Desktop\Framo\Framo.Core\bin\Debug\EntityFramework.xml
+C:\Users\Developer\Desktop\Framo\Framo.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Developer\Desktop\Framo\Framo.Core\obj\Debug\Framo.Core.csprojAssemblyReference.cache
+C:\Users\Developer\Desktop\Framo\Framo.Core\obj\Debug\Framo.Core.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\Framo\Framo.Core\obj\Debug\Framo.Core.csproj.CopyComplete
+C:\Users\Developer\Desktop\Framo\Framo.Core\obj\Debug\Framo.Core.dll
+C:\Users\Developer\Desktop\Framo\Framo.Core\obj\Debug\Framo.Core.pdb

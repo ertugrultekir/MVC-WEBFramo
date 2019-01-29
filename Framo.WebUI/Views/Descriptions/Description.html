@@ -1,0 +1,147 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="../../Scripts/jquery-1.9.1.min.js"></script>
+    <link href="../../Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="../../Scripts/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container">
+
+        <h1>Index</h1>
+        <a href="#tanitim">Katmanlı Mimari Tanımı</a><br />
+        <a href="#projeAdimlari">Proje Adımları</a><br />
+        <a href="#katmanGorevleri">Katman Görevleri</a><br />
+        <a href="#katmanReferanslari">Katman Referansları</a><br />
+        <a href="#katmanlarinYapilandirilmasi">Katmanların Yapılandırılması</a><br />
+
+        <a id="tanitim"></a>
+        <!-- #region Katmanlı Mimari Tanımı -->
+        <h1>Multi Layer Architecture's - Çok Katmanlı Mimariler</h1>
+        <p>Projelerin geliştirilebilir, yönetilebilir ve erişilebilir olması amacıyla kullanılan mimari modellerdir. Görevleri tek bir proje altında oluşturulan kod sistemlerini parçalayarak yönetilebilirliği arttırmaktır.</p>
+        <p>Bu mimarinin bize sağladığı avantajlar;</p>
+        <ul>
+            <li>Yönetilebilirlik, Geliştirilebilirlik sağlamak</li>
+            <li>Hata kontrollerinin kolaylaşması</li>
+            <li>Tek elden yönetilebilirlik</li>
+            <li>Birden fazla yazılım geliştiricinin organize olarak çalışması</li>
+            <li>Uzun vadeli projelerde zaman tasarrufu</li>
+            <li>Birden fazla platformda geliştirme yapmak</li>
+            <li>Unit Test geliştirme avantajı</li>
+        </ul>
+        <p>Bir çok katmanlı mimari modeli bulunmasına karşılık projemizde tercih ettiğimiz model Onion Architecture (Soğan Mimarisi) modelidir. Bu modelde katmanlar birbirine bağlı olarak çalışır fakat farklı görevlerde bulunan sınıflar ayrıştırılır.</p>
+
+
+        <!-- #endregion -->
+        <a id="projeAdimlari"></a>
+        <!-- #region Proje Adımları -->
+        <h1>Onion Architecture Proje Adımları</h1>
+        <p>Bu model oluşturulan katmanların belli bir hiyerarşiye sahip olmadan birbirlerini referans olarak çalışmasını sağlayan modeldir. Bu modeli en temel anlamıyla uygulamak için aşağıdaki katmanları oluşturmanız gerekmektedir.</p>
+
+        <blockquote>
+            Katmanları oluşturmak için aşağıdaki adımları izleyin.
+            <br />
+            <ol>
+                <li>Solution Explorer</li>
+                <li>Framo Solution</li>
+                <li>Sağ Tık</li>
+                <li>New Project</li>
+                <li>Class Library Seçin</li>
+                <li>Projeye bir isim verin (isimler aşağıda verilmiştir)</li>
+                <li>OK butonuna basarak projeyi oluşturun.</li>
+            </ol>
+        </blockquote>
+
+        <!-- #endregion -->
+        <a id="katmanGorevleri"></a>
+        <!-- #region Katman İsimleri ve Görevleri -->
+        <h2>Katman İsimleri ve Görevleri</h2>
+        <ol>
+            <li><strong>ProjeAdi.Core : </strong>Projenin çekirdek olarak adlandırılan ve her sınıfın türetileceği yapıların bulunduğu katmandır.</li>
+            <li><strong>ProjeAdi.Model : </strong>Projemizin sınıflarının, map dosyalarının vb. yapılarının bulunduğu katmandır.</li>
+            <li><strong>ProjeAdi.Service : </strong>Prensentation katmanlarından gelen isteklere cevap verecek olan ve projenin iş katmanı olarak görev yapacak olan birimidir.</li>
+            <li><strong>ProjeAdi.WebUI : </strong>Kullanıcı katmanı olarak kullanılan asıl adının Prensetation (sunum) katmanı olmasıyla bilinen katmandır. Bu katmanın görevi kullanıcı ile iletişime geçmektir. View adı verilen görünüm sayfaları (win form, api, web form, mvc, xamarin, devex, console, unity vb.)</li>
+        </ol>
+        <!-- #endregion -->
+        <a id="katmanReferanslari"></a>
+        <!-- #region Katman Referansları -->
+        <h2>Katmanların Referansları</h2>
+        <p>Bu tarz çok katmanlı mimari modellerinin çalışabilmesi için oluşturulan katmanların birbirine bağlanması gerekmektedir. Bu modellerin amacı parçaların ayrı ayrı tasarlanarak bir bütünü oluşturmasını sağlamaktır.</p>
+
+        <blockquote>
+            Entity Framework Yüklemek : Package Manager Console üzerinde üstten komutun hangi proje için çalıştırılacağını seçin > install-package entityframework komutunu girin..
+            <br />
+            <img src="../../Content/Description/console.PNG" />
+        </blockquote>
+
+        <h3>Core Katmanı</h3>
+        <p>Bu katman içerisinde en temel yapı olmasından dolayı en çekirdekteki referansları almak durumundadır.</p>
+        <ol>
+            <li>Entity Framework</li>
+        </ol>
+
+        <h3>Model Katmanı</h3>
+        <p>Bu katman içerisinde Core katmanındaki taban sınıflardan ve interfacelerden yararlanılarak veritabanı sınıflarımız ve bu sınıfların map dosyaları oluşturulur.</p>
+        <ol>
+            <li>Entity Framework</li>
+            <li>Framo.Core</li>
+        </ol>
+
+        <h3>Service Katmanı</h3>
+        <p>Projemizin can damarıdır. Tüm işlemler, alt yapı ve katmanlı mimari üzerinde uygulanacak design pattern yapıları bu katmanda barınır. Daha basit anlamıyla iş katmanıdır.</p>
+        <ol>
+            <li>Entity Framework</li>
+            <li>Framo.Core</li>
+            <li>Framo.Model</li>
+        </ol>
+
+        <h3>Prensetation Katmanı</h3>
+        <p>Bu katman kullanıcıyla iletişime geçmesi için kullanılır. Tüm referansların verilme sebebi bu proje derlenip yayınlamaya hazır hale getirildiğinde kullanılacak dll'lerin bu katmandan alınması amaçlanır.</p>
+        <ol>
+            <li>Entity Framework</li>
+            <li>Framo.Core</li>
+            <li>Framo.Model</li>
+            <li>Framo.Service</li>
+        </ol>
+
+        <blockquote>Entity Framework versiyonlarının aynı olması dikkat edilmesi gereken bir konudur.</blockquote>
+        <!-- #endregion -->
+        <a id="katmanlarinYapilandirilmasi"></a>
+        <!-- #region Katmanların Yapılandırılması -->
+        <h2>Katmanların Yapılandırması</h2>
+        <p>Katmanlar içerisinde hangi işlemlerin hangi sıralar ile yapıldığını aşağıdaki başlıklardan takip edebilirsiniz.</p>
+
+        <h3>Core Katmanı</h3>
+        <p>Bu katman içerisinde çekirdek olarak kullanılacak sınıflar ve interfaceler oluşturulur. Bu işlemler için aşağıdaki klasörleri oluşturarak işlemlerimize başlayabiliriz.</p>
+        <ul>
+            <li>
+                Entity
+                <ul>
+                    <li>Enum klasörü oluşturun</li>
+                </ul>
+            </li>
+            <li>Map</li>
+            <li>Service</li>
+        </ul>
+
+        <h4>İşlem Adımları</h4>
+        
+        <ol>
+            <li>Enum klasörü içerisine Status enum dosyasını oluşturduk.</li>
+            <li>Entity klasörünün altına IEntity interface'ini oluşturun.</li>
+            <li>CoreEntity sınıfı, Entity klasörü altına oluşturuldu.</li>
+            <li>CoreEntity sınıfı IEntity'den miras almalıdır.</li>
+            <li>Map klasörü altına CoreMap sınıfını oluşturduk.</li>
+            <li>Service klasörü altına ICoreService interface'ini oluşturduk.</li>
+        </ol>
+
+
+        <!-- #endregion -->
+
+
+        <br /><br /><br /><br /><br />
+    </div>
+</body>
+</html>

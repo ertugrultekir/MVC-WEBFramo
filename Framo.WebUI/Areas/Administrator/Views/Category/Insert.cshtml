@@ -1,0 +1,22 @@
+﻿@model Category
+
+@{
+    ViewBag.Title = "Insert";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Insert</h2>
+
+@using (Html.BeginForm("Insert", "Category", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.Label("Kategoryi Adı")
+        @Html.TextBoxFor(x => x.CategoryName, new { @class = "form-control" }) @Html.ValidationMessageFor(x => x.CategoryName)
+    </div><br />
+    <div class="form-group">
+        @Html.Label("Açıklama")
+        @Html.TextBoxFor(x => x.Description, new { @class = "form-control" })
+    </div><br />
+    <button class="btn btn-default">Kategori Oluştur</button>
+}
+

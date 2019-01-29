@@ -1,0 +1,31 @@
+﻿@model List<Comment>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+
+<h2 style="text-align:center">@ViewBag.FilmAdi</h2><br />
+<h3>Tüm Yorumlar</h3>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Email Adresi</th>
+            <th>Yapılan Yorumlar</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Comment item in Model)
+        {
+            <tr>
+                <td>@(item.EmailAddress != null ? item.EmailAddress : "-")</td>
+                <td>@item.CommentText</td>
+                <td>@Html.ActionLink("Yorumu Sil", "Delete", "Comment", new { id = item.ID, filmId = item.Movie.ID}, null)</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@Html.ActionLink("Filmlere Geri Dön", "Index", "Movie", null, new { @class = "btn btn-default"})

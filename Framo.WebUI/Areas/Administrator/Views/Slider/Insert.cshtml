@@ -1,0 +1,21 @@
+﻿@model Slider
+
+@{
+    ViewBag.Title = "Insert";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Insert</h2>
+
+@using (Html.BeginForm("Insert", "Slider", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="form-group">
+        <label for="email">Başlık</label>
+        @Html.TextBoxFor(x => x.Title, new { @class = "form-control" }) @Html.ValidationMessageFor(x=> x.Title)
+    </div>
+    <div class="form-group">
+        <label for="pwd">Slider</label>
+        @Html.TextBoxFor(x => x.ImagePath, new { type = "file" }) @Html.ValidationMessageFor(x => x.ImagePath)
+    </div>
+    <button type="submit" class="btn btn-default">Kaydet</button>
+}

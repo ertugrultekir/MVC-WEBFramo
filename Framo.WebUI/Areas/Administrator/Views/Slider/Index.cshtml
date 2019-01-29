@@ -1,0 +1,31 @@
+﻿@model List<Slider>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<table class="table table-hover table-bordered">
+    <thead>
+        <tr>
+            <th>Başlık</th>
+            <th>Resim</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Slider item in Model)
+        {
+            <tr>
+                <td>@item.Title</td>
+                <td>@item.ImagePath</td>
+                <td>@Html.ActionLink("Güncelle", "Update", new { id = item.ID }) |
+                @Html.ActionLink("Sil", "Delete", new { id = item.ID })</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@Html.ActionLink("Yeni Slider Ekle", "Insert", "Slider", null, new { @class = "btn btn-default"})

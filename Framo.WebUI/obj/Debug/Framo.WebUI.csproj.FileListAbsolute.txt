@@ -1,0 +1,323 @@
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\Framo.WebUI.dll.config
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\Framo.WebUI.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\Framo.WebUI.pdb
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\csc.exe
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\csc.exe.config
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\csc.rsp
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\csi.exe
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\csi.exe.config
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\csi.rsp
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Console.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\vbc.exe
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\vbc.rsp
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\System.Web.Razor.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\System.Web.Razor.xml
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\obj\Debug\Framo.WebUI.csprojAssemblyReference.cache
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\obj\Debug\Framo.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\obj\Debug\Framo.WebUI.csproj.CopyComplete
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\obj\Debug\Framo.WebUI.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\obj\Debug\Framo.WebUI.pdb
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\EntityFramework.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\Framo.Core.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\Framo.Model.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\Framo.Service.dll
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\Framo.Core.pdb
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\Framo.Core.dll.config
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\Framo.Model.pdb
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\Framo.Model.dll.config
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\Framo.Service.pdb
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\Framo.Service.dll.config
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\EntityFramework.xml
+C:\Users\Developer\Desktop\Framo\Framo.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\Framo.WebUI.dll.config
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\Framo.WebUI.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\Framo.WebUI.pdb
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\csc.exe
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\csc.exe.config
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\csc.rsp
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\csi.exe
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\csi.exe.config
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\csi.rsp
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Console.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\vbc.exe
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\vbc.rsp
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\EntityFramework.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\Framo.Core.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\Framo.Model.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\Framo.Service.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\System.Web.Razor.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\Framo.Core.pdb
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\Framo.Core.dll.config
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\Framo.Model.pdb
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\Framo.Model.dll.config
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\Framo.Service.pdb
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\Framo.Service.dll.config
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\EntityFramework.xml
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\System.Web.Razor.xml
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\obj\Debug\Framo.WebUI.csprojAssemblyReference.cache
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\obj\Debug\Framo.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\obj\Debug\Framo.WebUI.csproj.CopyComplete
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\obj\Debug\Framo.WebUI.dll
+C:\Users\Ertugrul-PC\Desktop\Framo\Framo.WebUI\obj\Debug\Framo.WebUI.pdb
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\Framo.WebUI.dll.config
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\Framo.WebUI.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\Framo.WebUI.pdb
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\csc.exe
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\csc.exe.config
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\csc.rsp
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\csi.exe
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\csi.exe.config
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\csi.rsp
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Console.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\vbc.exe
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\vbc.rsp
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\EntityFramework.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\Framo.Core.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\Framo.Model.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\Framo.Service.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\System.Web.Helpers.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\System.Web.Mvc.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\System.Web.Razor.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\System.Web.Webpages.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\Framo.Core.pdb
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\Framo.Model.pdb
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\Framo.Service.pdb
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\EntityFramework.xml
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\System.Web.Razor.xml
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\System.Web.Webpages.xml
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\System.Web.Helpers.xml
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\System.Web.Mvc.xml
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\obj\Debug\Framo.WebUI.dll
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\obj\Debug\Framo.WebUI.pdb
+C:\Users\kurumsal\Desktop\Framo\Framo.WebUI\obj\Debug\Framo.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\Framo.WebUI.dll.config
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\Framo.WebUI.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\Framo.WebUI.pdb
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\csc.exe
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\csc.exe.config
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\csc.rsp
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\csi.exe
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\csi.exe.config
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\csi.rsp
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.Console.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\vbc.exe
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\vbc.rsp
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\EntityFramework.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\Framo.Core.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\Framo.Model.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\Framo.Service.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\System.Web.Razor.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\Framo.Core.pdb
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\Framo.Core.dll.config
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\Framo.Model.pdb
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\Framo.Model.dll.config
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\Framo.Service.pdb
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\Framo.Service.dll.config
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\EntityFramework.xml
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\System.Web.Razor.xml
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\obj\Debug\Framo.WebUI.csprojAssemblyReference.cache
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\obj\Debug\Framo.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\obj\Debug\Framo.WebUI.csproj.CopyComplete
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\obj\Debug\Framo.WebUI.dll
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\MVC\Framo\Framo.WebUI\obj\Debug\Framo.WebUI.pdb

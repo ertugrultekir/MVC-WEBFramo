@@ -1,0 +1,35 @@
+﻿@model List<Movie>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+@Html.ActionLink("Yeni Kayıt", "Insert", "Movie", null, new { @class = "btn btn-default" })
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Film Adı</th>
+            <th>Poster</th>
+            <th>Kategori</th>
+            <th>İşlem</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Movie item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@(item.PosterPath != null ? item.PosterPath : "-")</td>
+                <td>@(item.Category != null ? item.Category.CategoryName : "-")</td>
+                <td>
+                    @Html.ActionLink("Güncelle", "Update", "Movie", new { id = item.ID }, null) | 
+                    @Html.ActionLink("Sil", "Delete", "Movie", new { id = item.ID }, null) |
+                    @Html.ActionLink("Yorumları Düzenle", "Index", "Comment", new { filmId = item.ID}, null)</td>
+            </tr>
+        }
+    </tbody>
+</table>
